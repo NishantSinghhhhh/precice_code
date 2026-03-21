@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Bootstrap 3 → 5 Migration Audit — PDF Report Generator (Compact)
+migrate_jekyll_to_hugo.pyAudit — PDF Report Generator (Compact)
 Usage: python3 generate_pdf_report.py bootstrap_migration_summary.csv [output.pdf]
 """
 
